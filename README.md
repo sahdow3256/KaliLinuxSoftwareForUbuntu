@@ -23,6 +23,4 @@ Vous pouvez personnaliser cette liste en ajoutant ou en supprimant des outils se
 HOW TO INSTALL : 
 
     chmod +x nom_du_script.sh
- 
- 
     sudo ./KaliDep.sh
