@@ -18,3 +18,10 @@ Ce script ajoute le dépôt Kali Linux à votre liste de sources de logiciels Ub
  
 
 Vous pouvez personnaliser cette liste en ajoutant ou en supprimant des outils selon vos besoins.
+
+
+HOW TO INSTALL : 
+
+ chmod +x nom_du_script.sh
+ 
+ sudo ./KaliDep.sh
